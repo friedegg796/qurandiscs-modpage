@@ -9,7 +9,7 @@ function insertFooter() {
 
 
         <a class="icon" href="./../../#">
-            <img class="icon" src="./develop/images/gmail.png" alt="awanderingmuslim2billion">
+            <img class="icon" src="./develop/images/gmail.png" alt="awanderingmuslim2billion, Discord">
         </a>
 
 
@@ -19,13 +19,10 @@ function insertFooter() {
 
 
         <a class="icon" href="https://mahfil.net/channel/hasnain-alahi">
-            <img class="icon" src="./develop/images/gmail.png" alt="AwanderingMuslim">
+            <img class="icon" src="./develop/images/gmail.png" alt="AwanderingMuslim, Mahfil">
         </a>
         <a class="icon" href="https://github.com/friedegg796">
-            <img class="icon" src="./develop/images/github.png" alt="friedegg796">
-        </a>
-        <a class="icon" href="https://github.com/friedegg796">
-            <img class="icon" src="./develop/images/youtube.png" alt="friedegg796">
+            <img class="icon" src="./develop/images/github.png" alt="friedegg796, Github">
         </a>`;
 } // we use backticks--` `-- to allow for the usage of quotes.
 
