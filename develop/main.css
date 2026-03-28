@@ -47,6 +47,9 @@ p {
 
 
 /* links/a tags */
+a{
+    text-decoration:none;
+}
 /* unvisited */
 a:link {
     color: green;
@@ -67,12 +70,13 @@ a:active {
     color: lightblue;
 }
 
+/* a, or anchor, tags end here */
 hr {
     border: 0;
     border-top: 2px solid #DCDCDC;
 }
 
-/* List things */
+/* Lists */
 ul {
     list-style: none;
 }
@@ -101,7 +105,7 @@ dd {
     margin: 15px auto;
     width: 750px;
 }
-
+/*The below is used for unordered (ul) and order (ol) lists */
 li {
     color: #FFFFFF;
     font-size: 19px;
@@ -245,12 +249,15 @@ th {
     font-size: 1.5rem;
 }
 
-.topbtn:visited {
+.topbtn:visited, .topbtn:link {
     color: #FFD700;
 }
-
-.logo {
+.topbtn:hover, .logo:hover{
+ background-color: #ddd;
+}
+.logo, .logo:visited, .logo:link {
     font-size: 2rem;
+    color: #FFD700;
     /* Apparently, rem is better than px */
 }
 
@@ -258,9 +265,6 @@ th {
     content: "> ";
 }
 
-.logo:visited {
-    color: #FFD700;
-}
 
 .logocontent {
     display: none;
@@ -271,13 +275,11 @@ th {
     z-index: 1;
 }
 
-.dropdown:hover .dropcontent,
 .dropdown:hover .logocontent {
     display: block;
-    /* Without the comma, it shows what happens to dropcontent when dropdown is hovered */
+    /* Without the comma, it shows what happens to logocontent when dropdown is hovered */
 }
 
-.dropcontent a,
 .logocontent a {
     color: #FFD700;
     float: none;
@@ -285,12 +287,8 @@ th {
     text-decoration: none;
     display: block;
     text-align: left;
-}
-
-.logocontent a {
     font-size: 2rem;
 }
-
 .logocontent a:hover {
     background-color: #ddd;
 }
