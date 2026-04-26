@@ -1,4 +1,5 @@
 import './App.css'
+import MuslimcraftCard from './components/MuslimcraftCard.jsx'
 import { Link } from 'react-router-dom'
 
 function Index(){
@@ -29,7 +30,7 @@ function Index(){
           <h2> Resourcepacks </h2>
           <ul>
           <li>
-              <h3> Muslimcraft </h3>
+              <MuslimcraftCard />
 
 
           </li>
