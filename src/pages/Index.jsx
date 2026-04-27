@@ -1,10 +1,10 @@
 import './App.css'
-import MuslimcraftCard from './components/MuslimcraftCard.jsx'
+import MuslimcraftCard from '/workspaces/214691060/muslimdiscs-modpage/src/componenets/MuslimcraftCard.jsx'
 import { Link } from 'react-router-dom'
 
 function Index(){
 
-    return( //html-ish text goes here~!!
+    return( //html-ish text goes here
 
         <>
           <div>
@@ -16,7 +16,7 @@ function Index(){
 
                 <h2> About this website </h2>
           <p>
-            This is the offical website for the Muslimcraft, Qurandiscs, and all of my other resourcepacks/mods/minecraft things. It's just not done yet...
+            This is the offical website for the Muslimcraft, Muslimdiscs, and all of my other minecraft creations. It's just not done yet...
 
           </p>
           <h2> Mods and Datapacks</h2>
@@ -30,7 +30,7 @@ function Index(){
           <h2> Resourcepacks </h2>
           <ul>
           <li>
-              <MuslimcraftCard />
+               <MuslimcraftCard />
 
 
           </li>

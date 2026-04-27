@@ -2,7 +2,7 @@
 function insertFooter() {
   return `  <div class="medspace"> </div>
         <hr>
-        <p> Go <a href="./../../qurandiscs-modpage/index.html">back?</a></p>
+        <p> Go <a href="./../../muslimdiscs-modpage/index.html">back?</a></p>
         <a class="icon" href="https://www.linkedin.com/in/hasnain-a-6481a0342/">
             <img class="icon" src="./develop/images/linkedin.png" alt="Hasnain Alahi, LinkedIn">
         </a>

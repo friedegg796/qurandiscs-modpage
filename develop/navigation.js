@@ -2,7 +2,7 @@ function insertNavigation() {
     return `
    <div class="navbar">
    <div class="dropdown">
-       <a href="index.html" class="logo"> Qurandiscs </a>
+       <a href="index.html" class="logo"> muslimdiscs </a>
         <div class="logocontent">
        <a href="https://friedegg796.github.io/AMuslimsnotes/">A Muslim's Notes</a>
       <a href="#">Friedegg796 (WIP)</a>
@@ -11,11 +11,11 @@ function insertNavigation() {
      </div>
 
 
-      <a class="topbtn" href="./../../qurandiscs-modpage/index.html"> Home </a>
+      <a class="topbtn" href="./../../muslimdiscs-modpage/index.html"> Home </a>
 
-      <a class="topbtn" href="./../../qurandiscs-modpage/downloads.html"> Downloads </a>
+      <a class="topbtn" href="./../../muslimdiscs-modpage/downloads.html"> Downloads </a>
 
-      <a class="topbtn" href="./../../qurandiscs-modpage/faq.html"> FAQ </a>
+      <a class="topbtn" href="./../../muslimdiscs-modpage/faq.html"> FAQ </a>
 
       <a class="topbtn" href="#"> Contact </a>
 
