@@ -31,6 +31,7 @@ function Index(){
           <ul>
           <li>
                <MuslimcraftCard />
+               {/* Other resource packs go here! */}
 
 
           </li>
