@@ -36,10 +36,6 @@ function Index(){
           </li>
           </ul>
 
-          <h2> Skins </h2>
-          <p>
-            there's supposed to be a link to <Link to="/MuslimcraftChanges"> the changes. </Link>
-          </p>
         </div>
         <h2> who made this </h2>
         <p> Hasnain Alahi (AWanderingMuslim)</p>
