@@ -9,7 +9,7 @@ function Index(){
         <>
           <div>
             <header>
-          <h1>Qurandiscs</h1>
+          <h1>Muslimdiscs</h1>
           <p> Who said we couldn't use Minecraft for good deeds?</p>
           <hr/>
           </header>
