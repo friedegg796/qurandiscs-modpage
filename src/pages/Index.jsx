@@ -1,5 +1,5 @@
 import './App.css'
-import MuslimcraftCard from '/workspaces/214691060/muslimdiscs-modpage/src/componenets/MuslimcraftCard.jsx'
+import ResourcepackCards from '../componenets/ResourcepackCards'
 import { Link } from 'react-router-dom'
 
 function Index(){
@@ -30,7 +30,7 @@ function Index(){
           <h2> Resourcepacks </h2>
           <ul>
           <li>
-               <MuslimcraftCard />
+               <ResourcepackCards />
                {/* Other resource packs go here! */}
 
 

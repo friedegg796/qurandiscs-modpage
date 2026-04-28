@@ -6,8 +6,8 @@ function MuslimcraftCard(){
   <div className="card">
     <Link to="/MuslimcraftDownloads">
         <img src="muslimdiscs-modpage/src/assets/pack3.png" alt="Muslimcraft Resourcepack" width="200"></img>
-        <h2> Muslimcraft (Resourcepack) </h2>
-        <p> Change your Minecraft experience to be more clearly halal! </p>
+        <h2> Muslimcraft </h2>
+        <p> Make Minecraft more clearly halal! </p>
     </Link>
    </div>
 )

@@ -1,6 +1,6 @@
 import './App.css'
 
-function MuslimcraftChanges(){
+function Changes(){
 
     return(
     <>
@@ -15,7 +15,7 @@ function MuslimcraftChanges(){
             <h2> Music </h2>
        <p> Music has been GONED! (atleast it should've been) including jukebox discs and the background music </p>
 
-       
+
 
     </div>
     </>
@@ -24,4 +24,4 @@ function MuslimcraftChanges(){
 }
 
 
-export default MuslimcraftChanges
+export default Changes
