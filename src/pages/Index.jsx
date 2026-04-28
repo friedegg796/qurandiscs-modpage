@@ -14,12 +14,12 @@ function Index(){
           <hr/>
           </header>
 
-                <h2> About this website </h2>
+                <h2> About </h2>
           <p>
             This is the offical website for the Muslimcraft, Muslimdiscs, and all of my other minecraft creations. It's just not done yet...
 
           </p>
-          <h2> Mods and Datapacks</h2>
+          <h2> Mods/Datapacks</h2>
           <ul>
           <li>
               <h3> WIP </h3>
@@ -38,8 +38,8 @@ function Index(){
           </ul>
 
         </div>
-        <h2> who made this </h2>
-        <p> Hasnain Alahi (AWanderingMuslim)</p>
+        <h2> Credits </h2>
+        <p> Hasnain Alahi (AWanderingMuslim) - Creator</p>
 
 
         </>
