@@ -7,7 +7,7 @@
     padding: 10px;
 }
 .card:hover{
-     rotate: 25x;
-     perspective: 800px;
+       background-color: blue;
+  transition: background-color 0.3s ease;
      border: 1px solid white;
 }
