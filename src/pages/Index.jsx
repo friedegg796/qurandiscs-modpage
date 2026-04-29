@@ -30,7 +30,7 @@ function Index(){
           <h2> Resourcepacks </h2>
           <ul>
           <li>
-               
+               <ResourcepackCards />
                {/* Other resource packs go here! */}
 
 

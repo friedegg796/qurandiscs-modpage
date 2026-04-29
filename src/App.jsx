@@ -19,7 +19,7 @@ function App() {
         <Route path="/" element={<Index/>}/>
         <Route path="/MuslimcraftDownloads" element={<MuslimcraftDownloads/>}/>
         <Route path="/Changes" element={<Changes/>}/>
-        <Route path="/ArsMuslimDownloads" element={<ArsMuslimDownloads/>}/>
+       {/* <Route path="/ArsMuslimDownloads" element={<ArsMuslimDownloads/>}/> */}
     {/* </Route> */}
         </Routes>
 
