@@ -1,5 +1,5 @@
 import './App.css'
-import ResourcepackCards from '../componenets/ResourcepackCards'
+//import ResourcepackCards from '../componenets/ResourcepackCards'
 import { Link } from 'react-router-dom'
 
 function Index(){
@@ -30,7 +30,7 @@ function Index(){
           <h2> Resourcepacks </h2>
           <ul>
           <li>
-               <ResourcepackCards />
+               
                {/* Other resource packs go here! */}
 
 
