@@ -1,4 +1,4 @@
-import './components.css'
+import './reusablecomponents.css'
 
 function Footer() {
 
