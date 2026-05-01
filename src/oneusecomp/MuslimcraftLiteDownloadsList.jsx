@@ -6,13 +6,15 @@ function MuslimcraftLiteDownloadsList() {
     <div className="downloads-list">
       <h2>Muslimcraft Lite Downloads</h2>
       <ul>
+        <h3> 1.20 and above</h3>
         <li>
           <a href="https://github.com/friedegg796/Muslimcraft-Lite/archive/refs/tags/1.0.1-1.20+.zip" target="_blank" rel="noopener noreferrer">
-            Download for Minecraft 1.20.1
+            Version 1.0.1
           </a>
         </li>
         {/* Add more versions as needed */}
       </ul>
+      <h3> 1.19 and below </h3>
     </div>
   );
 }
