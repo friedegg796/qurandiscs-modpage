@@ -16,7 +16,7 @@ function MuslimcraftLiteDownloadsList() {
 
       <h3> 1.19 and below </h3>
         <li>
-          <a href="https://github.com/friedegg796/Muslimcraft-Lite/archive/refs/tags/1.0.1-1.20+.zip" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/friedegg796/Muslimcraft-Lite/archive/refs/tags/1.0.1-1.19-below.zip" target="_blank" rel="noopener noreferrer">
             Version 1.0.1
           </a>
         </li>
