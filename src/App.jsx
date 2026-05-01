@@ -13,15 +13,13 @@ function App() {
 
   return (
     <>
+    <Navbar/>
     <HashRouter>
        <Routes>
-
-       <Route element={<Navbar/>}>
         <Route path="/" element={<Index/>}/>
         <Route path="/MuslimcraftDownloads" element={<MuslimcraftDownloads/>}/>
         <Route path="/Changes" element={<Changes/>}/>
        {/* <Route path="/ArsMuslimDownloads" element={<ArsMuslimDownloads/>}/> */}
-     </Route>
         </Routes>
 
 
