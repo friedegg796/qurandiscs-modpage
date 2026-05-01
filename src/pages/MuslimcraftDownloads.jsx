@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom'
+import MuslimcraftLiteDownloadsList from '../oneusecomp/MuslimcraftLiteDownloadsList';
 function MuslimcraftDownloads(){
 
     return(
@@ -21,7 +22,7 @@ function MuslimcraftDownloads(){
 
 
             <h3> Lite Version </h3>
-            <p> 1.0.1 WIP </p>
+            <MuslimcraftLiteDownloadsList />
             </>
             )
 
