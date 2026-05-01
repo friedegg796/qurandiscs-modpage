@@ -21,7 +21,9 @@
 p, li, ul, h1, h2, h3{
     text-align: center;
     justify-content: center;
-    flex-wrap: wrap;
+    text-wrap: wrap;
+    border: 1px transparent ;
+    border-radius: 10px;
 
 }
 
