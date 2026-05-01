@@ -3,8 +3,6 @@ import { Link } from 'react-router-dom';
 
 function MuslimcraftLiteDownloadsList() {
   return (
-    <div className="downloads-list">
-      <h2>Muslimcraft Lite Downloads</h2>
       <ul>
         <h3> 1.20 and above</h3>
         <li>
@@ -23,7 +21,6 @@ function MuslimcraftLiteDownloadsList() {
 
 
       </ul>
-    </div>
   );
 }
 

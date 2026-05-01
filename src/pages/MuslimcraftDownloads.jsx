@@ -13,15 +13,15 @@ function MuslimcraftDownloads(){
 
          <p> A full list of changes is supposed to be <Link to="/changes">here</Link></p>
 
-         <h2> Download </h2>
+         <h2> Downloads </h2>
 
-            <h3> Full Version </h3>
+            <h2> Full Version </h2>
 
             <p> Unfinished </p>
 
 
 
-            <h3> Lite Version </h3>
+            <h2> Lite Version </h2>
             <MuslimcraftLiteDownloadsList />
             </>
             )
