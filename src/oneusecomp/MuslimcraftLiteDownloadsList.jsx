@@ -7,7 +7,9 @@ function MuslimcraftLiteDownloadsList() {
       <h2>Muslimcraft Lite Downloads</h2>
       <ul>
         <li>
-          <Link to="/MuslimcraftLiteDownloads/1.20.1">Download for Minecraft 1.20.1</Link>
+          <a href="/MuslimcraftLiteDownloads/1.20.1" target="_blank" rel="noopener noreferrer">
+            Download for Minecraft 1.20.1
+          </a>
         </li>
         {/* Add more versions as needed */}
       </ul>
