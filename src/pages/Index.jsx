@@ -1,5 +1,5 @@
 import './App.css'
-import ResourcepackCards from '../componenets/ResourcepackCards'
+import ResourcepackCards from '../oneusecomp/ResourcepackCards'
 import { Link } from 'react-router-dom'
 
 function Index(){
