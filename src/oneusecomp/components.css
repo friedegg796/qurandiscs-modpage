@@ -19,11 +19,14 @@
     flex-wrap: wrap;
 }
 p, li, ul, h1, h2, h3{
+    text-align:center;
+
+
+}
+p, li, ul{
+    margin: auto;
     text-wrap: wrap;
     width:80%;
-    text-align:center;
-    margin: auto;
-
 }
 
 li{
