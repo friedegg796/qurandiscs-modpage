@@ -3,9 +3,10 @@ import { Link } from 'react-router-dom';
 
 function MuslimcraftLiteDownloadsList() {
   return (
-      <ul>
+      <>
         <h3> 1.20 and above</h3>
-                <li>
+        <ul>
+        <li>
           <a href="https://github.com/friedegg796/Muslimcraft-Lite/archive/refs/tags/1.0.2-1.20+.zip" target="_blank" rel="noopener noreferrer">
             Version 1.0.2
           </a>
@@ -15,17 +16,17 @@ function MuslimcraftLiteDownloadsList() {
             Version 1.0.1
           </a>
         </li>
-        {/* Add more versions as needed */}
+        </ul>
 
       <h3> 1.19 and below </h3>
+      <ul>
         <li>
           <a href="https://github.com/friedegg796/Muslimcraft-Lite/archive/refs/tags/1.0.1-1.19-below.zip" target="_blank" rel="noopener noreferrer">
             Version 1.0.1
           </a>
         </li>
-
-
       </ul>
+      </>
   );
 }
 
