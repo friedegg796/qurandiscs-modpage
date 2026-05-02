@@ -6,9 +6,8 @@
     padding: 10px;
 
 }
-
-Link{
-   text-decoration: 'none';
+a{
+    text-decoration: none;
 }
 .card{
    border: 1px solid black;
