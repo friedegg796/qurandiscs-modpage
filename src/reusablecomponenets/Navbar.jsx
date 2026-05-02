@@ -7,7 +7,8 @@ function Navbar() {
         <nav>
             <div class="title"> Muslimdiscs </div>
             <ul>
-               <p>  </p>
+                <li><a href="/">Home</a></li>
+                <li><a href="/about">About</a></li>
             </ul>
         </nav>
 
