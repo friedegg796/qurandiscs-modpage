@@ -1,4 +1,5 @@
 import './reusablecomponents.css'
+import { Link } from 'react-router-dom'
 
 function Navbar() {
 
@@ -7,8 +8,8 @@ function Navbar() {
         <nav>
             <div class="title"> Muslimdiscs </div>
             <ul>
-                <li><a href="/">Home</a></li>
-                <li><a href="/about">About</a></li>
+               {/* <li><Link to="/">Home</Link></li>
+                <li><Link to="/about">About</Link></li> */}
             </ul>
         </nav>
 
