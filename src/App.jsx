@@ -13,8 +13,9 @@ function App() {
 
   return (
     <>
-    <Navbar/>
+
     <HashRouter>
+      <Navbar/>
        <Routes>
         <Route path="/" element={<Index/>}/>
         <Route path="/MuslimcraftDownloads" element={<MuslimcraftDownloads/>}/>

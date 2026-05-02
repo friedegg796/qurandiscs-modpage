@@ -7,7 +7,9 @@
 
 }
 
-
+Link{
+   text-decoration: none;
+}
 .card{
    border: 1px solid black;
    border-radius: 10px;
