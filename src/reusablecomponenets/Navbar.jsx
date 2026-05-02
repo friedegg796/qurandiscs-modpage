@@ -5,7 +5,7 @@ function Navbar() {
     return(
         <>
         <nav>
-            <h1> Muslimdiscs </h1>
+            <div class="title"> Muslimdiscs </div>
             <ul>
                <p>  </p>
             </ul>
