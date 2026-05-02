@@ -23,6 +23,7 @@ p, li, ul, h1, h2, h3{
     justify-content: center;
     text-wrap: wrap;
     border-radius: 1px;
+    width: 750px;
 
 }
 
