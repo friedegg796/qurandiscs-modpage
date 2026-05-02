@@ -6,7 +6,9 @@ function Navbar() {
     return(
         <>
         <nav>
-            <Link to="/"><div class="title"> Muslimdiscs </div></Link>
+            <Link to="/">
+            <div class="title"> Muslimdiscs </div>
+            </Link>
             <ul>
                {/* <li><Link to="/">Home</Link></li>
                 <li><Link to="/about">About</Link></li> */}
